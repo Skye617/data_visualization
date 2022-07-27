@@ -1,5 +1,4 @@
 # data_visualization
-Config files for my GitHub profile.
 
 ## Purpose of the repo
 To share different types of analysis and charts I've done in Tableau
